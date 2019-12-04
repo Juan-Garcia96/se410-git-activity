@@ -2,3 +2,6 @@ Pizza
 Ice cream
 Cheesesteak
 Chicken
+Lettuce
+Fries
+Burger
